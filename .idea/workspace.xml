@@ -1,17 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2239bf3a-b809-4d4b-8130-43b647a36d1c" name="Changes" comment="" />
+    <list default="true" id="2239bf3a-b809-4d4b-8130-43b647a36d1c" name="Changes" comment="java - second lesson">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beepers/Beeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beepers/horn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Capacities/Capacity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Capacities/Capacitycar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Engines/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Engines/EngineKamaz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Engines/EngineV16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Engines/EngineV8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Highlander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kamaz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoadWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Transmissions/Transmission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Transmissions/Transmission12lvl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Transmissions/Transmission16LVL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/octavia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2GlM5UKIYdQclR8r4urV5VxlpVw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,7 +63,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -31,8 +79,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666958535812</updated>
+      <workItem from="1666958537245" duration="5169000" />
     </task>
+    <task id="LOCAL-00001" summary="java - second lesson">
+      <created>1666958584765</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666958584765</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -44,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java - second lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="java - second lesson" />
   </component>
 </project>
